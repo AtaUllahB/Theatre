@@ -25,7 +25,7 @@ Theatre<br>
 &nbsp; |-movie<br>
 &nbsp;&nbsp;  |-css<br>
 &nbsp;&nbsp;  |-fonts<br>
-&nbsp;&nbsp;  |-images<br
+&nbsp;&nbsp;  |-images<br>
 &nbsp;&nbsp;  |-js<br>
 &nbsp; |-trailer(trailer clips)<br>
 &nbsp; |-videos(movie/videos)<br>
