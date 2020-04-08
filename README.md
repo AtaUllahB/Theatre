@@ -7,7 +7,7 @@ Movies.json includes the data i used in the db.
 run index.js
 
 
-Theatre
+Theatre<br>
 |
 |-public
  |-assets
