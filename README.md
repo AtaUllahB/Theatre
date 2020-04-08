@@ -44,8 +44,9 @@ Theatre<br>
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![alt text](https://raw.githubusercontent.com/AtaUllahB/Theatre/blob/master/screenshots/404_page.png)
+![alt text](https://raw.githubusercontent.com/AtaUllahB/Theatre/blob/master/screenshots/404_page.png?raw=true)
 
+https://github.com/AtaUllahB/Theatre/blob/master/screenshots/404_page.png?raw=true
 
 
 
