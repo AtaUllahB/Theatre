@@ -16,11 +16,11 @@ Theatre<br>
   |-js<br>
  |-css<br>
  |-images(images to be put on cover)<br>
- |-login<br><br>
-  |-css<br><br>
+ |-login<br>
+  |-css<br>
   |-fonts<br>
   |-images<br>
-  |-js<br><br>
+  |-js<br>
   |-vendor<br>
  |-movie<br>
   |-css<br>
@@ -29,8 +29,8 @@ Theatre<br>
   |-js<br>
  |-trailer(trailer clips)<br>
  |-videos(movie/videos)<br>
- |-404.css<br><br><br><br>
-|-node_modules<br><br><br>
+ |-404.css<br>
+|-node_modules<br>
 |-views<br>
 |-index.js<br>
 |-package.json<br>
