@@ -1,6 +1,22 @@
 # Theatre
 Online Movie Streaming Application using Node.js/Express.js/Pug.js and MongoDB
 
+
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/login.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/Main_page_top.png?raw=true"
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/home_page.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/home_page_3.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/all_movies.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/movie_page_one.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/movie_page_2.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/movie_page_3_comments.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/search.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/edit_a_move.png?raw=true">
+<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/404_page.png?raw=true">
+<img src=https://github.com/AtaUllahB/Theatre/blob/master/screenshots/mongodb.png?raw=true">
+
+
+
 Movies.json includes the data i used in the db.
 
 install node.
@@ -40,22 +56,6 @@ Theatre<br>
 |-package.json<br>
 |-package-lock.json<br>
 
-
-
-
-
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/login.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/Main_page_top.png?raw=true"
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/home_page.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/home_page_3.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/all_movies.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/movie_page_one.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/movie_page_2.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/movie_page_3_comments.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/search.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/edit_a_move.png?raw=true">
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/404_page.png?raw=true">
-<img src=https://github.com/AtaUllahB/Theatre/blob/master/screenshots/mongodb.png?raw=true">
 
 
 
